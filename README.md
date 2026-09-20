@@ -8,7 +8,8 @@ I'm a results-driven Frontend & React Developer with 2.5+ years of experience bu
 - 🌱 Deepening my expertise in **React.js, TypeScript, and Redux Toolkit** for scalable frontend systems.
 - 💬 Ask me about **React, Shopify Liquid, JavaScript (ES6+), REST API integration, and performance optimization**.
 - 📫 Reach me at **sheikhtousif148@gmail.com**
-- 🧰 Check out my **[Portfolio](https://tausif148.github.io/My-porfolio-using-react/)** for detailed case studies.
+- 🧰 Check out my **<a href="https://tausif148.github.io/My-porfolio-using-react/" target="_blank" rel="noopener noreferrer">Portfolio</a>** for detailed case studies.
+
 
 ---
 
