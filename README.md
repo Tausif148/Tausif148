@@ -57,7 +57,7 @@ I'm a results-driven Frontend & React Developer with 2.5+ years of experience bu
 ## 💼 Experience
 
 **Software Developer** — StepOne Technology, Nagpur, India
-*April 2026 – Present*
+*April 2026 – September 2026 (6 months)*
 - Developed scalable Hospital Management System modules using React, TypeScript, Material UI, and REST APIs.
 - Built reusable UI components and implemented complete CRUD operations, API integrations, forms, validations, filtering, and data management.
 - Delivered modules including Doctor, Patient, Appointment, Prescription, Pharmacy, Medicine, Staff, Role, and Master Management.
